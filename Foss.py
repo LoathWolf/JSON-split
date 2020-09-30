@@ -1,3 +1,5 @@
+# ///THIS IS NOT A FINAL COPY///
+
 # This program seeks to take an compiled ION channel library check list,
 # and compare it to libraries used in individual teams, and separate out the ION channel information,
 # into separate library documents associated with each library name
